@@ -1,0 +1,31 @@
+h1 {
+    color: darkblue;
+}
+#tekst {
+    color: red;
+}
+#doelopbrengst {
+   color: blue;
+}
+
+#currentProfit {
+    color: green;
+}
+
+.types_of_tv {
+    color: darkred;
+}
+
+#opdracht5 {
+    background-color: lightgreen;
+    font-style: oblique;
+}
+
+#showall {
+    background-color: blueviolet;
+    color: white;
+}
+
+#showall > ul {
+    list-style: none;
+}
